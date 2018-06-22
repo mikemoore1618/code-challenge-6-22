@@ -1,7 +1,9 @@
+// CODE CHALLENGE FROM 6/22
+
 // clone(obj)
 // Write a function that returns an exact copy of an object:
 
-//my answer, which was right!!!
+// MY ANSWER WHICH WAS RIGHT!!!
 
 var myObj = { boom: "banana" }
 var clonedObj = clone(myObj)
@@ -21,7 +23,7 @@ console.log(myObj === clonedObj)
 // false
 
 
-//phillipes long answer using "for in" loop
+//PHILLIPE'S long answer using "for in" loop
 var exampleObj = {
     name: "mike",
     age: 27,
